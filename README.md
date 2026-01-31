@@ -46,6 +46,7 @@ Mail_Merge_Project/
 ## 📖 Example
 
 **Template (`starting_letter.txt`):**
+
 Dear [name],
 
 Hey, how have you been doing? It's been a while since we had a cup of coffee together. Life is full of
@@ -60,6 +61,7 @@ Sudin
 ---
 
 **Personalized Letter (`letter_for_Suyog.txt`):**
+
 Dear Suyog,
 
 Hey, how have you been doing? It's been a while since we had a cup of coffee together. Life is full of
